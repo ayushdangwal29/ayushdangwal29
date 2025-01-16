@@ -14,8 +14,8 @@
 - ⚡ Fun fact **I enjoy transforming wireframes into functional and aesthetic UIs. - I’m always curious about new design trends and user experiences.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> Email: (ayushdangwal29@gmail.com) </p>
-<p align="left"> LinkedIn: [Ayush Dangwal] <a href="https://www.linkedin.com/in/ayush-dangwal-6b5370245?utm_source=share&utm_campaign">ayushdangwal<</a
+<p align="left"><b>Email: <a href = "ayushdangwal29@gmail.com" >ayushdangwal29@gmail.com</a> </b></p>
+<p align="left"><b>LinkedIn: [Ayush Dangwal] <a href="https://www.linkedin.com/in/ayush-dangwal-6b5370245?utm_source=share&utm_campaign">ayushdangwal</a></b>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
