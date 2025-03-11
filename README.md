@@ -24,7 +24,7 @@
 
 ### 🌟 Featured Projects:
 - **[SpeckDev](https://ayushdangwal29.github.io/SpeckDev/):** A modern, scalable web app project focusing on **UI/UX best practices** and **performance optimization**.
-- **[Portfolio Website](https://ayush-dangwal.portly.dev):** Explore my **portfolio**, showcasing projects, achievements, and expertise in **web development**.
+- **[Portfolio Website](https://v0-portfolio-24xvdv.vercel.app/):** Explore my **portfolio**, showcasing projects, achievements, and expertise in **web development**.
 
 ---
 
@@ -62,7 +62,7 @@
   <a href="https://github.com/ayushdangwal29" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ayushdangwal29-333?logo=github&style=for-the-badge" alt="GitHub">
   </a>
-  <a href="https://ayush-dangwal.portly.dev" target="_blank">
+  <a href="https://v0-portfolio-24xvdv.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ayush--dangwal.portly.dev-4E69C8?logo=web&style=for-the-badge" alt="Portfolio">
   </a>
 </p>
