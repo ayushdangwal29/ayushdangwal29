@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/GitHub-ayushdangwal29-333?logo=github&style=for-the-badge" alt="GitHub">
   </a>
   <a href="https://ayushfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ayush--dangwal.portly.dev-4E69C8?logo=web&style=for-the-badge" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-ayushfolio.vercel.app-4E69C8?logo=web&style=for-the-badge" alt="Portfolio">
   </a>
 </p>
 
