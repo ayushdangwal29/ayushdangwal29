@@ -10,7 +10,7 @@
 
 ### 🚀 About Me:
 - 🌱 Currently advancing **React.js**, **UI Design**, and **Frontend Performance**.
-- 👨‍💻 Working on **[SpeckDev](https://ayushdangwal29.github.io/SpeckDev/)**, a modern web dev project.
+<!-- - 👨‍💻 Working on **[](https://)**, a modern web dev project. -->
 - 🖌️ Passionate about crafting **responsive UIs** and **design systems**.
 - ✨ Actively contributing to **open-source** and exploring **cutting-edge web technologies**.
 
@@ -24,7 +24,7 @@
 ---
 
 ### 🌟 Featured Projects:
-- **[SpeckDev](https://ayushdangwal29.github.io/SpeckDev/):** A modern, scalable web app project focusing on **UI/UX best practices** and **performance optimization**.
+<!-- - **[SpeckDev](https://ayushdangwal29.github.io/SpeckDev/):** A modern, scalable web app project focusing on **UI/UX best practices** and **performance optimization**. -->
 - **[Portfolio Website](https://ayushfolio.vercel.app/):** Explore my **portfolio**, showcasing projects, achievements, and expertise in **web development**.
 
 ---
